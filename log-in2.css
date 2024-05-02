@@ -1,0 +1,10 @@
+body {
+  background-color: #7bbef0; /* Light gray background */
+  font-family: sans-serif;
+}
+
+.login-box {
+  max-width: 400px;
+  width: 100%;
+  background-color: cornflowerblue; /* Adjust width as needed */
+}
